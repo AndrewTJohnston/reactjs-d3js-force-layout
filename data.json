@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"id": "zero",  "group": 1},
+    {"id": "one",   "group": 1},
+    {"id": "two",   "group": 1},
+    {"id": "three", "group": 1},
+    {"id": "four",  "group": 1},
+    {"id": "five",  "group": 1}
+  ],
+  "links": [
+    {"source": "zero",  "target": "one"   },
+    {"source": "zero",  "target": "two"   },
+    {"source": "zero",  "target": "three" },
+    {"source": "zero",  "target": "four"  },
+    {"source": "zero",  "target": "five"  }
+  ]
+}
